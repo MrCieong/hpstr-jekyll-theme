@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Mr.Cieong's Blog
+description:      Welcome to my blog!
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,14 +9,14 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Mr.Cieong
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "Hi!我是一位iOS工程师，现居深圳。"
+  email:          zhangjing0829@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        Mr_Cieong
   facebook:       
-  github:         
+  github:         MrCieong
   stackexchange:  
   linkedin:       
   instagram:      
