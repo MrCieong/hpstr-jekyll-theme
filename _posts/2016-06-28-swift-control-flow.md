@@ -64,7 +64,7 @@ After the switch statement has finished executing, the number’s description is
 > The fallthrough keyword does not check the case conditions for the switch case that it causes execution to fall into. The fallthrough keyword simply causes code execution to move directly to the statements inside the next case (or default case) block, as in C’s standard switch statement behavior.
 
 ### Checking API Availability
-检查API是否有效
+检查API有效性
 
 Swift has built-in support for checking API availability, which ensures that you don’t accidentally use APIs that are unavailable on a given deployment target.
 
